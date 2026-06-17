@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/shivanshsaxena/dsa/slidingWindow",
-      "program": "/Users/shivanshsaxena/dsa/slidingWindow/build/Debug/outDebug"
+      "cwd": "/Users/shivanshsaxena/dsa/TwoPointers",
+      "program": "/Users/shivanshsaxena/dsa/TwoPointers/build/Debug/outDebug"
     }
   ]
 }
