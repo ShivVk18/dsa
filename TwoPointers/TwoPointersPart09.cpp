@@ -20,7 +20,7 @@ for(int i=0;i<nums.size();i++){
         continue;
     }
      int x1 = nums[i];
-
+ 
 
      
      int left = i+1;
